@@ -30,7 +30,7 @@ ip = "192.168.56.1"
 port = 8040
 
 [monitor-service.addr]
-ip = "000.000.00.0"
+ip = "10.2.2.15"
 port = 8030
 
 [shell-service.addr]
